@@ -20,4 +20,6 @@ layui bootstrap jsp servlet mysql jQuery
 
 2.普通读者后台无法借阅图书，需要管理员给某个读者借阅
 
-3.使用lombok生成java bean的get和set方法，idea记得安装该插件
+3.只实现了一些基本的功能，如果有需要请自行添加
+
+4.使用lombok生成java bean的get和set方法，idea记得安装该插件
