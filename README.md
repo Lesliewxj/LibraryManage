@@ -8,7 +8,7 @@ jdk1.8+tomcat9+mysql+IntelliJ IDEA
 
 layui bootstrap jsp servlet mysql jQuery
 
-运行地址：http://localhost:8080/LibraryManage_war_exploded/Login.jsp
+本地运行地址：http://localhost:8080/LibraryManage_war_exploded/Login.jsp
 
 管理员账号admin T1 110112
 
