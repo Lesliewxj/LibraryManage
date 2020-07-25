@@ -10,7 +10,7 @@ layui bootstrap jsp servlet mysql jQuery
 
 Local operating address: http://localhost:8080/LibraryManage_war_exploded/Login.jsp
 
-Administrator account admin T1 110112
+Administrator account： admin T1 110112
 
 
 
