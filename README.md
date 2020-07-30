@@ -1,4 +1,5 @@
-# LibraryManage A Java-based library management system
+# LibraryManage 
+A Java-based library management system
 
 #Operating environment
 
