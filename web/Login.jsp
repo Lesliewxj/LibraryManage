@@ -73,7 +73,7 @@
     <h1 align="center" style="margin-left: -30%;margin-bottom: 40%;font-size: 50px;margin-top: -40%;">图&nbsp;&nbsp;书&nbsp;&nbsp;管&nbsp;&nbsp;理&nbsp;&nbsp;系&nbsp;&nbsp;统&nbsp;&nbsp;登&nbsp;&nbsp;录</h1>
     <form class="layui-form" name="Login" action="Login" method="post" onsubmit="return Onlogin()">
       <div class="layui-form-item">
-        <label class="layui-form-label" style="font-size: 20px;">用户名：</label>
+        <label class="layui-form-label" style="font-size: 20px;">用户名： </label>
         <div class="layui-input-block">
           <input type="text" name="username" class="layui-input" placeholder="请输入用户名">
         </div>
