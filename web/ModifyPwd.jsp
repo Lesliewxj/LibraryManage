@@ -10,7 +10,7 @@
 </head>
 <body>
 
-
+//修改密码
 <script type="text/javascript">
 
     var status = "<%=request.getAttribute("status")%>";
