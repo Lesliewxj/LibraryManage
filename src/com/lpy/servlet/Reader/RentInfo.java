@@ -10,6 +10,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.List;
+//登录之后的可以查看个人信息
+
 
 @WebServlet("/RentInfo")
 public class RentInfo extends HttpServlet {
